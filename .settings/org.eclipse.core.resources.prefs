@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/common/admin/header.jsp=UTF-8
+encoding//src/ptithcm/controller/CartController.java=UTF-8
+encoding//src/ptithcm/controller/LoginController.java=UTF-8
+encoding//src/ptithcm/controller/ManageUserController.java=UTF-8
+encoding//src/ptithcm/controller/OrderController.java=UTF-8
+encoding//src/ptithcm/controller/PasswordController.java=UTF-8
+encoding//src/ptithcm/controller/QuanLyHatGiongHuong.java=UTF-8
+encoding//src/ptithcm/controller/SeedController.java=UTF-8
+encoding//src/ptithcm/entity/OrderDetail.java=UTF-8
+encoding//src/ptithcm/entity/Seed.java=UTF-8
+encoding//src/ptithcm/entity/TheOrder.java=UTF-8
+encoding//src/ptithcm/entity/TypeSeed.java=UTF-8
+encoding//src/ptithcm/entity/User.java=UTF-8
